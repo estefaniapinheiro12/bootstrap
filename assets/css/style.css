@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container-fluid{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.image{
+    text-align: center;
+}
+.text{
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
